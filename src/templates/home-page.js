@@ -15,6 +15,7 @@ class HomePage extends React.Component {
   }
   render() {
     const { markdownRemark: post } = this.props.data;
+    console.log('post', post);
     return (
       <div>
       <Helmet>
