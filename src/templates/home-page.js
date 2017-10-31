@@ -582,20 +582,6 @@ class HomePage extends React.Component {
 
 
 
-
-    <script src="assets/plugins/jquery.min.js"></script>
-
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-    <script src="assets/plugins/parallax.min.js"></script>
-    <script src="assets/js/navigation.js"></script>
-    <script src="assets/plugins/jquery.easing.js"></script>
-    <script src="assets/plugins/jquery.magnific-popup.min.js"></script>
-    <script src="assets/plugins/imagesloaded.pkgd.min.js"></script>
-    <script src="assets/plugins/isotope.pkgd.min.js"></script>
-    <script src="assets/plugins/owl.carousel.min.js"></script>
-    <script src="assets/plugins/gmap3.min.js"></script>
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtR223ih2ZwVJX2SGBixD3p87Aa8RV2Is"></script>
-    <script src="assets/js/script.min.js"></script>
       </section>
       </div>
     );
