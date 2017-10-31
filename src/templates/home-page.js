@@ -15,7 +15,7 @@ class HomePage extends React.Component {
   }
   render() {
     const { markdownRemark: post } = this.props.data;
-    console.log('post', post);
+    console.log('home props', post)
     return (
       <div>
       <Helmet>
@@ -49,6 +49,14 @@ export const homePageQuery = graphql`
         path
         title
         description
+        intro {
+          heading
+          description
+          blurbs {
+            image
+            text
+          }
+        }
       }
     }
   }
