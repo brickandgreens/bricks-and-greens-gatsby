@@ -1,6 +1,6 @@
 ---
+templateKey: 'home-page'
 title: Our Coffees
-type: products
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: tested description 22222
