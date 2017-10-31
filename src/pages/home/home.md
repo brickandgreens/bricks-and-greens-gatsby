@@ -1,7 +1,7 @@
 ---
-templateKey: 'home-page'
+templateKey: home-page
 path: /
-title: Our Coffees
+title: Our HomePage
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: tested description 22222
