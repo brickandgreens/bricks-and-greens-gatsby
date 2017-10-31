@@ -35,6 +35,8 @@ collections:
     create: false
     slug: "{{slug}}"
     fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "home-page"}
+      - {label: "Path", name: "path", widget: "hidden", default: "/"}
       - {label: Title, name: title, widget: string}
       - {label: Type, name: type, widget: hidden, default: products}
       - {label: Page, name: page, widget: hidden, default: "/products.html"}
